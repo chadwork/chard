@@ -1,0 +1,21 @@
+<html>
+<body>
+<title>Heritage studies</title>
+<h2><span style="color:orange">Child-headed families</span></h2>
+<h3>INTRODUCTION</h3>
+<p>A child-headed family is one in which a minor is the head of the family.<br/>
+He/She takes care of all of her siblings or children like a normal parent would do. </p>
+<h3><span style="color:red">Causes</span>of child-headed families</h3>
+<div style="background-color=yellow;color:black;padding:20px;">
+<p>Death of parents :Parents would have died in a car accident or any other cause leaving their children stranded
+and alone</p>
+<p>Pregnance at early stages : The minor would have got pregnant at a very early age and the parents would
+have abandoned her for that leaving her to fend for her baby alone.</p>
+<p>Abandonment by parents:Parents would have gone to seek for work or any other place
+and never come back.</p>
+<p>The running away of children from their homes: Parents would have abused the children emotionally , sexually and physically
+making the situation at home for them unbearable.</p>
+<p>Sickness of parents :Parents may be alive and well by unable to provide for their family as their medical condition 
+inhibit them to do so e.g those with HIV AIDs . </p></div>  
+</body>
+</html>

@@ -1,0 +1,48 @@
+<h3>QUESTIONNAIRE</h3>
+NO	QUESTION	YES	NO	N/A	COMMENT
+1	Does your organisation have an up to date policies and procedure manual?				
+
+2	Are operational procedures manual maintained and distributed to all personnel?				
+
+3	Are gift acceptance policy maintained and distributed to all personnel?				
+
+4	Does your organisation have an organisation chart that clearly defines lines of authority and responsibility?				
+
+
+5	Are current job descriptions on file for each individual employee in the organisation?				
+
+6	Is the work of all staff members double checked on random un announced basis?				
+
+7	Are all staff members required to take one full week of continuous vacation annually especially those handling cash and investments?				
+
+
+
+8	Are duties segregated in all cash handling functions?				
+9	Are job duties rotated when possible?				
+10	Does more than one person have access to every screen or software application in the organisation?				
+
+
+11	Does the authorization structure allow effective implementation of internal control?				
+
+
+12	Do the cash function controls meet the present need?				
+
+13	Is the responsibility of the internal control system clearly defined, if so who is responsible?				
+
+14	Does management review internal controls?				
+15	How often is internal audit carried out?				
+16	Are there effective restrictions to access of securities e.g. safe keys, door keys				
+
+17	Is the clocking system effectively functioning?  If not give a comment.				
+
+18	Is there proper description of segregation of duties authorisation?				
+
+19	Does company policies and regulations allow independence of the audit function?				
+
+20	What are the areas of internal control that are being by – passed and need attention?	
+
+
+
+
+
+

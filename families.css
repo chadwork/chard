@@ -1,0 +1,7 @@
+.body{background-image:url(families.jpg);
+background-position: right top;
+background-size:600px ,600px; 
+background-repeat:no-repeat ;}
+p{color:dimgrey;font-family:Arial;}
+h1{color:mediumvioletred;font-family:Arial;}
+ul{color:darkmagenta}

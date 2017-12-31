@@ -1,0 +1,18 @@
+body{text-align:justify;font-family:Arial;color:maroon;background-image:url(production.png)
+;background-position:top right;background-repeat:no-repeat;
+font-family:Arial;}
+h{text-align:center;color:peru;}
+h1{text-align:center;color:saddlebrown;}
+p{padding:20px;border:5px solid green;width:500px;text-align:justify;color:slategray;}
+ul{color:darkred;list-style-type:square;}
+ol{color:darkred}
+address{color:darkblue}
+#informal{font-family:Ariel; width:500px;padding:10px;
+border:2px solid darkmagenta;}
+#list {color:green;}
+#informal{color:darkblue;}
+.informal{color:orange;text-align:center;}
+#reserve{color:red;}
+.reserve{color:orangered;}
+#national{font-family:Ariel; width:500px;padding:10px;
+border:2px solid yellow;color:oliveDrab;}

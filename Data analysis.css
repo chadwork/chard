@@ -1,0 +1,5 @@
+body{font-family:Arial;background-color:lightblue;
+width:500px;background-image:url("trademark.jpg"),url("intro.jpg");
+background-position:top center,bottom right;background-repeat:no-repeat;
+background-size:200px 200px,400px 400px;}
+h1{text-align:right;}

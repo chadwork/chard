@@ -1,0 +1,17 @@
+body{ background-image:url("heritage1.jpg");background-position:top right;
+background-repeat:no-repeat;background-size:1350px 855px;background-attachment:fixed;
+  font-family:Arial;}
+a:link { color:orange;text-decoration:none;}
+a:visited {color:brown}
+a:hover {color:purple;
+}
+a:active {color:darkblue}
+h1{text-shadow:5px 2px 4px orange;}
+.study{color:black;font-family:arial;}
+.study{position:absolute ;top:830px;right:500px}
+.skills{position:absolute ;text-align:right;color:darkmagenta;top:870px;left:500px;font-family:Arial;}
+.skills2{position:absolute ;text-align:justify;color:orangered;top:900px;left:500px;font-family:Arial;}
+.test{color:black;font-family:Arial;position:absolute;top:2000px;left:500px;}
+.test2{color:black;font-family:Arial;position:absolute;top:2050px;left:500px;}
+.test3{color:orangered;font-family:Arial;position:absolute;top:2110px;left:500px;}
+#skills{color:royalblue;font-family:Arial;}
